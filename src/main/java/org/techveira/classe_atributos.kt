@@ -14,5 +14,5 @@ fun main() {
     println(carro.cor)
 
     println(carro.dono.nome)
-    println(carro.dono.idade)
+    println("Nome do dono: " + carro.dono.idade)
 }
